@@ -1,9 +1,11 @@
 # to-do-list
-# 🌸 Cute To-Do List Web App
+# 🌸 To-Do List Web App
 
-A beautiful and responsive **Cute To-Do List** web application built using **HTML, CSS, and JavaScript**. It helps users organize daily tasks with an attractive pastel-themed interface, smooth animations, and productivity features.
+A modern and responsive **To-Do List** web application built using **HTML, CSS, and JavaScript**. It helps users organize daily tasks with an attractive pastel-themed interface, smooth animations, and productivity features.
 
 ---
+## 🚀 Live Demo
+👉 https://sadiarasheedsr.github.io/to-do-list/
 
 ## ✨ Features
 
@@ -50,24 +52,6 @@ Cute-ToDo-List/
 
 ---
 
-## 🚀 Getting Started
-
-1. Download or clone this repository.
-
-```bash
-git clone https://github.com/your-username/cute-todo-list.git
-```
-
-2. Open the project folder.
-
-3. Double-click **index.html**
-
-**OR**
-
-Run it using **Live Server** in Visual Studio Code.
-
----
-
 ## 💻 How It Works
 
 - Enter a task.
@@ -77,19 +61,6 @@ Run it using **Live Server** in Visual Studio Code.
 - Click the ➕ button.
 - Manage tasks by editing, completing, or deleting them.
 - Your tasks are automatically saved using Local Storage.
-
----
-
-## 🎨 UI Highlights
-
-- Cute pastel color palette
-- Glassmorphism cards
-- Floating mascot animation
-- Animated statistics cards
-- Progress tracking
-- Responsive layout
-- Hover effects
-- Dark mode support
 
 ---
 
